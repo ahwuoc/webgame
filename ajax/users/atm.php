@@ -45,8 +45,8 @@ if($_Id) {
     $secretKey = $config['secretKey'];
     $order_desc = 'THRT{{orderid}}';
     $partnerCode = $config['partnerCode'];
-    $redirectUrl = 'http://dragonballsaga.vn/ajax/atm_callback.php';
-    $ipnUrl = 'http://dragonballsaga.vn/ajax/ipn.php';
+    $redirectUrl = 'http://ngocrongdaupha.vn/ajax/atm_callback.php';
+    $ipnUrl = 'http://ngocrongdaupha.vn/ajax/ipn.php';
     $amount = '50000';
     $bank_accounts = "3981200954|mbb";
     $orderId = time() . "";

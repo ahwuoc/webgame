@@ -736,7 +736,7 @@ require_once './DHKD/Header.php';
                                                 của anh ta.</p>
                                             <p>Với tinh thần chiến đấu không ngừng nghỉ và lòng nhân ái, Goku đã trở
                                                 thành một biểu tượng của sự kiên cường và lòng dũng cảm trong thế giới
-                                                Dragon Ball.</p>
+                                                Ngọc rồng Đấu Phá.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -758,7 +758,7 @@ require_once './DHKD/Header.php';
                                         <div class="character-name">PICCOLO</div>
                                         <div class="character-text">
                                             <p>Piccolo là một chiến binh Namekian mạnh mẽ và là một trong những nhân vật
-                                                quan trọng trong thế giới Dragon Ball. Anh ta là con trai và là sự tái
+                                                quan trọng trong thế giới Ngọc rồng Đấu Phá. Anh ta là con trai và là sự tái
                                                 sinh của Đại Ma Vương Piccolo.</p>
                                             <p>Ban đầu, Piccolo là kẻ thù của Goku, nhưng sau đó anh ta đã trở thành một
                                                 đồng minh quan trọng và là người thầy của Gohan. Piccolo nổi tiếng với
@@ -790,7 +790,7 @@ require_once './DHKD/Header.php';
                                                 cô yêu thương.</p>
                                             <p>Videl đã học được nhiều kỹ năng chiến đấu từ Gohan và trở thành một chiến
                                                 binh tài năng. Cô cũng là mẹ của Pan, một trong những nhân vật quan
-                                                trọng trong thế giới Dragon Ball.</p>
+                                                trọng trong thế giới Ngọc rồng Đấu Phá.</p>
                                             <p>Với lòng dũng cảm và sự quyết tâm, Videl đã nhiều lần chứng tỏ mình là
                                                 một chiến binh đáng gờm và là một người mẹ tuyệt vời.</p>
                                         </div>
@@ -817,7 +817,7 @@ require_once './DHKD/Header.php';
                                     <div class="content">
                                         <div class="character-name">ANDROID 21</div>
                                         <div class="character-text">
-                                            <p>Android 21 là một nhân vật đặc biệt trong thế giới Dragon Ball, được tạo
+                                            <p>Android 21 là một nhân vật đặc biệt trong thế giới Ngọc rồng Đấu Phá, được tạo
                                                 ra bởi Dr. Gero. Cô là một nhà khoa học tài năng với trí tuệ vượt trội,
                                                 và có khả năng biến hình thành nhiều trạng thái khác nhau.</p>
                                             <p>Trong hình dạng ban đầu, Android 21 có mái tóc dài màu nâu và đeo kính.
