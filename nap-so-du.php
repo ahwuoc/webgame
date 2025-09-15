@@ -33,7 +33,7 @@ if ($_login === null) {
                 <script type="text/javascript">
                     new WOW().init();
                 </script>
-                	- Mỗi khi nạp 20K sẽ nhận 17K COIN, nạp 100K trở lên x1.15 lần, 500K trở lên x1.4 lần Hiện Tại inbox Zalo ADMIN Huyết Chiến Để Nạp Thẻ Cào Không Nạp Trên Đây Mất Không Chịu Trách Nhiệm.!
+                	- Mỗi khi nạp 20K sẽ nhận 17K COIN, nạp 100K trở lên x1.15 lần, 500K trở lên x1.4 lần Hiện Tại inbox Zalo ADMIN để Nạp Thẻ Cào Không Nạp Trên Đây Mất Không Chịu Trách Nhiệm.!
                 <form method="POST" id="myform">
                     <tbody>
                         <label>Tài Khoản: </label><br>

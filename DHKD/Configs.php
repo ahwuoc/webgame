@@ -35,9 +35,9 @@ $_FixWeb = '0'; // Bảo Trì = 1, Không Bảo Trì = 0
 $_AuthLog = '0'; // Bảo Trì = 1, Không Bảo Trì = 0
 
 #Hỗ Trợ
-$_Fanpage = 'https://zalo.me/g/jcdzdj569';
-$_Zalo = 'https://zalo.me/g/jcdzdj569';
-$_Tiktok = 'https://zalo.me/g/jcdzdj569';
+$_Fanpage = 'https://zalo.me/g/lubutk410';
+$_Zalo = 'https://zalo.me/g/lubutk410';
+$_Tiktok = 'https://zalo.me/g/lubutk410';
 $_Group = '';
 
 #---------------#
@@ -52,6 +52,7 @@ define('DOWNLOAD_ANDROID_URL', $_Android);
 define('DOWNLOAD_IOS_URL', $_Iphone);
 define('DOWNLOAD_WINDOWS_URL', $_Windows);
 define('ZALO_MAIN_URL', $_Zalo);
+define('ZALO_URL', $_Zalo);
 
 #Card
 $Partner_Key = '3c6d89ecd3109d128dc30021834a61e7';

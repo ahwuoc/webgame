@@ -12,6 +12,9 @@ $_title = 'Ngọc Rồng Online - Máy Chủ Ngọc Rồng Online';
 // Constant cho tên game
 define('GAME_NAME', 'NRO ĐẤU PHÁ');
 
+// Social Media Links
+define('ZALO_GROUP_URL', 'https://zalo.me/g/lubutk410');
+
 // thông tin cấu hình vps
 $serverIP = "14.225.213.208"; // lấy thông tin máy chủ vps
 $serverPort = "443"; // port vps
