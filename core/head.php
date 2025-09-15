@@ -24,10 +24,10 @@ try {
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <title>Ngọc rồng<br>Đấu Phá</title>
-	<link rel="canonical" href="https://dragonballsaga.vn/" />
+	<link rel="canonical" href="https://dragonball<?php echo strtolower(str_replace(' ', '', GAME_NAME)); ?>.vn/" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://dragonballsaga.vn/" />
+    <meta property="og:url" content="https://dragonball<?php echo strtolower(str_replace(' ', '', GAME_NAME)); ?>.vn/" />
     <meta property="og:title" content="Ngọc rồng - Đấu Phá" />
     <meta property="og:description" content="Website chính thức của Ngọc rồng Đấu Phá – Game Bay Vien Ngoc Rong Mobile nhập vai trực tuyến trên máy tính và điện thoại về Game 7 Viên Ngọc Rồng hấp dẫn nhất hiện nay!" />
     <meta property="og:image" content="" />

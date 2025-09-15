@@ -11,7 +11,7 @@ if ($_login === null) {
         $sv = $_SESSION['sv'];
         $tentaikhoan = 'NGUYEN CHI HUONG';
         // $sotaikhoan ='099964399999';
-        // $noidungnap ='DRAGONBALLSAGA';
+        // $noidungnap ='DRAGONBALL<?php echo str_replace(' ', '', GAME_NAME); ?>';
         $sotaikhoan ='0904769973';
         $noidungnap ='optimus';
         if($sv == 1 ){
@@ -26,12 +26,12 @@ if ($_login === null) {
         }
         // if($sv == 3 ){
         //     $sotaikhoan = '099964399999';
-        //     $noidungnap ='DRAGONBALLSAGA';
+        //     $noidungnap ='DRAGONBALL<?php echo str_replace(' ', '', GAME_NAME); ?>';
         //     $conn = $conn2;
         // }
         // if($sv == 4 ){
         //     $sotaikhoan = '099964399999';
-        //     $noidungnap ='DRAGONBALLSAGA';
+        //     $noidungnap ='DRAGONBALL<?php echo str_replace(' ', '', GAME_NAME); ?>';
         //     $conn = $conn3;
         // }
         

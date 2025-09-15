@@ -19,7 +19,7 @@ require_once '../core/cauhinh.php';
                                 <b>
                                     <font style="color: red;">ADMIN</font>
                                     <font>
-                                        <p><i>SAGA </i>
+                                        <p><i><?php echo GAME_NAME; ?> </i>
                                             
                                         </p>
                                     </font>
@@ -28,12 +28,12 @@ require_once '../core/cauhinh.php';
                         </td>
                         <td class="posts_boxContent__XjPnA">
                             <div class="posts_contentPost___PyGu">
-                                <div class="posts_title__P1NsS">💎 Hệ Thống Vàng & Ngọc - Ngọc Rồng Saga 💎</div>
+                                <div class="posts_title__P1NsS">💎 Hệ Thống Vàng & Ngọc - Ngọc Rồng <?php echo GAME_NAME; ?> 💎</div>
                                 <div class="posts_boxTime__bFU28"><span class="posts_time__PFYQE"><i>18:18 25/12/2024</i></span></div>
                             <div>
     <div class="fr-view" style="background-color: rgb(255, 255, 255);">
         <p><strong>🌟 Giới Thiệu Hệ Thống Vàng & Ngọc 🌟</strong></p>
-        <p>Trong Ngọc Rồng Saga, người chơi có thể thu thập các nguyên liệu quý hiếm để phát triển nhân vật và nâng cấp trang bị. Hôm nay, chúng ta sẽ tìm hiểu về ba tài nguyên quan trọng: <strong>Ngọc Xanh, Hồng Ngọc và Vàng</strong>.</p>
+        <p>Trong Ngọc Rồng <?php echo GAME_NAME; ?>, người chơi có thể thu thập các nguyên liệu quý hiếm để phát triển nhân vật và nâng cấp trang bị. Hôm nay, chúng ta sẽ tìm hiểu về ba tài nguyên quan trọng: <strong>Ngọc Xanh, Hồng Ngọc và Vàng</strong>.</p>
 
         <hr>
 
@@ -88,7 +88,7 @@ require_once '../core/cauhinh.php';
 
         <p><strong>🎯 Lưu Ý:</strong> Vàng là một tài nguyên quan trọng, giúp người chơi có thể mua sắm vật phẩm, nâng cấp trang bị và tham gia các hoạt động đặc biệt. Hãy tận dụng cơ hội để kiếm thật nhiều vàng nhé! 💰🔥</p>
 
-        <p><strong>[ NGOC RONG SAGA ]</strong></p>
+        <p><strong>[ NGOC RONG <?php echo GAME_NAME; ?> ]</strong></p>
     </div>
 </div>
 

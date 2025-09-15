@@ -183,7 +183,7 @@ if ($_login === null) {
                                         <!-- </form> -->
                                     </div>
                                     <div id="register_form_detail" class="ant-form ant-form-vertical d-none" style="margin-top: 15px;">
-                                        <!-- <form id="register_form_detail" action="http://dragonballsaga.vn/register" autocomplete="off" class="ant-form ant-form-vertical d-none" style="margin-top: 15px;"> -->
+                                        <!-- <form id="register_form_detail" action="http://dragonball<?php echo strtolower(str_replace(' ', '', GAME_NAME)); ?>.vn/register" autocomplete="off" class="ant-form ant-form-vertical d-none" style="margin-top: 15px;"> -->
                                         <div class="ant-form-item">
                                             <div class="ant-row ant-form-item-row">
                                                 <div class="ant-col ant-form-item-label">

@@ -19,7 +19,7 @@ require_once '../core/cauhinh.php';
                                 <b>
                                     <font style="color: red;">ADMIN</font>
                                     <font>
-                                        <p><i>SAGA </i>
+                                        <p><i><?php echo GAME_NAME; ?> </i>
                                             
                                         </p>
                                     </font>
@@ -118,7 +118,7 @@ require_once '../core/cauhinh.php';
             <li>🎯 Hãy tham gia sớm để không bỏ lỡ những phần thưởng hấp dẫn!</li>
         </ul>
 
-        <p><strong>[ NGOC RONG SAGA ]</strong></p>
+        <p><strong>[ NGOC RONG <?php echo GAME_NAME; ?> ]</strong></p>
 
     </div>
 </div>

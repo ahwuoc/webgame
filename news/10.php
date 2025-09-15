@@ -19,7 +19,7 @@ require_once '../core/cauhinh.php';
                                 <b>
                                     <font style="color: red;">ADMIN</font>
                                     <font>
-                                        <p><i>SAGA</i>
+                                        <p><i><?php echo GAME_NAME; ?></i>
                                             
                                         </p>
                                     </font>

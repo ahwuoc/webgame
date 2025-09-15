@@ -39,11 +39,11 @@ require_once '../core/cauhinh.php';
             <li><code>VIP777</code></li>
             <li><code>VIP888</code></li>
             <li><code>VIP999</code></li>
-			<li><code>SAGA1</code></li>
-            <li><code>SAGA2</code></li>
-            <li><code>SAGA3</code></li>
-            <li><code>SAGA4</code></li>
-			<li><code>SAGA5</code></li>
+			<li><code><?php echo GAME_NAME; ?>1</code></li>
+            <li><code><?php echo GAME_NAME; ?>2</code></li>
+            <li><code><?php echo GAME_NAME; ?>3</code></li>
+            <li><code><?php echo GAME_NAME; ?>4</code></li>
+			<li><code><?php echo GAME_NAME; ?>5</code></li>
         </ul>
 
         <hr>

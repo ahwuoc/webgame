@@ -9,6 +9,9 @@ $_tenmaychu = 'Ngọc Rồng'; // Tên máy chủ hiển thị ở cuối trang
 $_mienmaychu = 'Ngọc Rồng';
 $_title = 'Ngọc Rồng Online - Máy Chủ Ngọc Rồng Online';
 
+// Constant cho tên game
+define('GAME_NAME', 'NRO ĐẤU PHÁ');
+
 // thông tin cấu hình vps
 $serverIP = "14.225.213.208"; // lấy thông tin máy chủ vps
 $serverPort = "443"; // port vps
