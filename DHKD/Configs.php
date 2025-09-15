@@ -42,7 +42,7 @@ $_Group = '';
 
 #---------------#
 #Downloads
-$_Windows = 'https://drive.google.com/file/d/1olQgky-shfeQTIuxuXlz21OLO3g9VoKv/view?usp=sharing'; // Downloads nơi lưu file game (Android)
+$_Windows = 'https://drive.google.com/file/d/1RxN9cwOSDU7R-2te7PLl_gMzehDNMgFv/view?usp=sharing'; // Downloads nơi lưu file game (Windows)
 $_Iphone = 'https://testflight.apple.com/join/Se9bGBhR';
 $_Java = '/Downloads/ThangHoa.jar';
 $_Android = 'https://drive.google.com/file/d/1SDfG9f1ChYhiRjGtozUVrgfy8Ra_TBHy/view?usp=sharing'; // Downloads nơi lưu file game (Android)
