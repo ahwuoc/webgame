@@ -56,7 +56,6 @@ if ($_login === null) {
                     <br>
                     <a href="/nap-so-du.php"><b class="btn btn-action text-white" style="background-color: rgb(243, 146, 101);">THẺ CÀO AUTO</b></a>
                     <a href="/nap-momo.php"><b class="btn btn-action text-white" style="background-color: rgb(243, 146, 101);">MOMO AUTO <b></b> </b></a>
-                    <a href="/nap-atm.php"><b class="btn btn-action text-white" style="background-color: rgb(101, 160, 243);">ATM AUTO <b></b> </b></a>
                             </div>					
 							<div class="table-responsive">
     							<div class="card-header">
@@ -107,7 +106,7 @@ if ($_login === null) {
             <!--hết momo-->
             <div class="table-responsive">
               <div style="line-height: 15px;font-size: 12px;padding-right: 5px;margin-bottom: 8px;padding-top: 2px;" class="text-center">
-                <span class="text-black" style="vertical-align: middle;">Hãy <a href="nap-atm.php"><b><u>Loading</u></b></a> lại website để cập nhật!</span>
+                <span class="text-black" style="vertical-align: middle;">Hãy <b><u>Loading</u></b> lại website để cập nhật!</span>
               </div>
               <!-- <table class="table table-hover table-nowrap">
                 <tbody style="border-color: black;">
