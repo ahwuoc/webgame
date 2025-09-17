@@ -42,10 +42,10 @@ $_Group = '';
 
 #---------------#
 #Downloads
-$_Windows = 'https://drive.google.com/file/d/1NHEbHa_-5JnF5Dc4HheZGZCw_0R5uvgx/view?usp=sharing'; // Downloads nơi lưu file game (Windows)
-$_Iphone = 'https://testflight.apple.com/join/Se9bGBhR';
+$_Windows = 'https://drive.google.com/file/d/1xfYqpU27SBjazxTSbcovOHId7y3eeTTg/view?usp=sharing'; // Downloads nơi lưu file game (Windows)
+$_Iphone = 'https://testflight.apple.com/join/DNvNVXq2';
 $_Java = '/Downloads/ThangHoa.jar';
-$_Android = 'https://drive.google.com/file/d/1RxN9cwOSDU7R-2te7PLl_gMzehDNMgFv/view?usp=sharing'; // Downloads nơi lưu file game (Android)
+$_Android = 'https://drive.google.com/file/d/1nPBMFOs4enVXXDUs0Q52le4umQ6L-_0A/view?usp=sharing'; // Downloads nơi lưu file game (Android)
 
 # Expose as constants for use across the site
 define('DOWNLOAD_ANDROID_URL', $_Android);
